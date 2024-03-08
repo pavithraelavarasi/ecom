@@ -1,0 +1,7 @@
+	
+					pharmacy Website
+					admin table (one admin) -- only for stock updates
+					user table(they can sign up by own)
+				options 1 singup 2 login 3 as a visiter  4 exit
+				categories total 10 store in separate table
+as per categoory separate table will be created and store the products id , name by tha name
