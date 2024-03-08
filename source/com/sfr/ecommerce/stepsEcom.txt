@@ -1,0 +1,10 @@
+Ecommerce 
+
+   This program firstly we have to add owner.
+   then exit
+   nxt login as owner and add admin
+   then exit
+   nxt add suppliers
+   suppliers login
+   then add category and products
+   then add users
